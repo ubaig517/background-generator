@@ -1,0 +1,23 @@
+{
+  "name": "BackgroundGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubaig517/background-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubaig517/background-generator/issues"
+  },
+  "homepage": "https://ubaig517.github.io/background-generator",
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
